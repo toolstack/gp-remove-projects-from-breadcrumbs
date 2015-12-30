@@ -10,7 +10,7 @@ Stable tag: {{TAG}}
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A plugin for [GlotPress as a WordPress plugin](https://github.com/deliciousbrains/GlotPress) that removes the top level "Projects" link from the breadcrumbs.
+A plugin for GlotPress as a WordPress plugin that removes the top level "Projects" link from the breadcrumbs.
 
 == Description ==
 
