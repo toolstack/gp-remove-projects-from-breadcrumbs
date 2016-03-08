@@ -1,5 +1,5 @@
 === GP Remove Projects from Breadcrumbs ===
-Contributors: gregross
+Contributors: GregRoss
 Donate link: http://toolstack.com/donate
 Plugin URI: http://glot-o-matic.com/gp-remove-projects-from-breadcrumbs
 Author URI: http://toolstack.com
@@ -14,7 +14,7 @@ A plugin for GlotPress as a WordPress plugin that removes the top level "Project
 
 == Description ==
 
-A plugin for [GlotPress as a WordPress plugin](https://github.com/deliciousbrains/GlotPress) that removes the top level "Projects" link from the breadcrumbs.
+A plugin for [GlotPress as a WordPress plugin](https://github.com/GlotPress/GlotPress-WP) that removes the top level "Projects" link from the breadcrumbs.
 
 == Installation ==
 

@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: GlotPress Remove Projects from Breadcrumbs
+Plugin Name: GP Remove Projects from Breadcrumbs
 Plugin URI: http://glot-o-matic.com/gp-remove-projects-from-breadcrumbs
 Description: Remove the "Projects" link from the breadcrumbs in GlotPress
 Version: 0.6
-Author: gregross
+Author: GregRoss
 Author URI: http://toolstack.com
 Tags: glotpress, glotpress plugin 
 License: GPLv2
